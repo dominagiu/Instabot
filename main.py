@@ -9,7 +9,7 @@ from time import sleep
 # insert account's credential
 username = ''
 password = ''
-# insert a name or a link to the account we want to search
+# insert a name or a link to the account you want to search
 name = ''
 link = ''
 
